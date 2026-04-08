@@ -49,7 +49,7 @@ class _HomeScreenState extends State<HomeScreen> {
               style: TextStyle(color: AppColors.textSecondary, fontSize: 16),
             ),
             Text(
-              'Emon Ahmed Likhon',
+              'Md Nurujjaman Shipat',
               style: TextStyle(
                 color: AppColors.black,
                 fontSize: 16,
