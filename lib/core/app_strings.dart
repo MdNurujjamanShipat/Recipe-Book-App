@@ -1,7 +1,7 @@
 class AppStrings {
   static const String appName = 'Recipe App';
-  static const String apiKey = '85963103260c428695313e5a1a86c7d3';
-  //static const String apiKey = 'c6a7d92039e2437abce7e83d0fed0ba9';
+  //static const String apiKey = '85963103260c428695313e5a1a86c7d3';
+  static const String apiKey = 'c6a7d92039e2437abce7e83d0fed0ba9';
 
   static const String categories = 'Categories';
   static const String searchRecipes = 'Search Recipes';
